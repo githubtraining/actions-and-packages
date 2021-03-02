@@ -135,9 +135,9 @@
 
 1. To test our CI workflow, we need to trigger it. And the event that triggers it is `pull_request`. So let's create a pull request to get this workflow running
 
-1. Go to your `README.md` file and enter edit mode
+1. Go to `index.js` file and enter edit mode.
 
-1. Make some changes/add some text
+1. Make some changes/add some text.
 
 1. Commit your changes to a new branch e.g. `add-ci-workflow` and click **Commit changes**
 

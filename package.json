@@ -1,0 +1,21 @@
+{
+  "name": "@OWNER/REPOSITORY_NAME",
+  "version": "1.0.0",
+  "description": "Practice repository for GH Actions and Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified, but that's alright for now!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OWNER/REPOSITORY_NAME.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OWNER/REPOSITORY_NAME/issues"
+  },
+  "homepage": "https://github.com/OWNER/REPOSITORY_NAME#readme",
+  "dependencies": {}
+}

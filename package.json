@@ -1,5 +1,5 @@
 {
-  "name": "@OWNER/REPOSITORY_NAME",
+  "name": "@zevanreg/actions-and-packages",
   "version": "1.0.0",
   "description": "Practice repository for GH Actions and Packages",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/REPOSITORY_NAME.git"
+    "url": "git+https://github.com/zevanreg/actions-and-packages.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OWNER/REPOSITORY_NAME/issues"
+    "url": "https://github.com/zevanreg/actions-and-packages/issues"
   },
-  "homepage": "https://github.com/OWNER/REPOSITORY_NAME#readme",
+  "homepage": "https://github.com/zevanreg/actions-and-packages#readme",
   "dependencies": {}
 }
